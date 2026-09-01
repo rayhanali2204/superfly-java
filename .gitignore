@@ -1,0 +1,23 @@
+# Gradle output and local state
+.gradle/
+build/
+
+# Java compilation output
+*.class
+out/
+
+# IDE-specific files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Local runtime data (created and updated while playing)
+highscore.txt
+high-score-*.tmp
