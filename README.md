@@ -4,6 +4,8 @@ Superfly is a small arcade-style game built with Java and Processing. The player
 
 The project began as a Processing/Java coursework sketch. It has since been migrated to a conventional Java 17 application with a Gradle build, a Processing-independent gameplay layer, JUnit tests, and isolated file-based high-score persistence. The active application is the Gradle project under `src/main/java`. The `legacy-processing/` directory preserves the original coursework version for reference and comparison.
 
+![Superfly gameplay](docs/superfly-gameplay.png)
+
 ## Technologies
 
 - Java 17
